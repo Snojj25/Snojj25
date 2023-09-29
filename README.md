@@ -1,4 +1,3 @@
-
 Hi 👋 My name is jure snoj
 ==========================
 
@@ -28,8 +27,8 @@ Studied CS and mathematics. Passionate about blockchain and backend development.
 
 <a href="http://www.github.com/Snojj25"><img src="https://github-readme-stats.vercel.app/api?username=Snojj25&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Snojj25's GitHub stats" /></a>
 
-<a href="http://www.github.com/Snojj25"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Snojj25&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Snojj25"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Snojj25&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Snojj25" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snojj25&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Snojj25/test1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Snojj25&repo=test1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
