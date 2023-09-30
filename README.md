@@ -1,7 +1,7 @@
 Hi 👋 My name is jure snoj
 ==========================
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=02B0F7&background=02A5FF00&center=false&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=02B0F7&background=02A5FF00&center=false&width=435&lines=Welcome+to+my+profile)
 
 Blockchain engineer
 -------------------
