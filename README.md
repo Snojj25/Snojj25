@@ -38,14 +38,14 @@ Blockchain engineer
 ## Currently working on:
 
 
-<a href="https://github.com/InvisibleExchange/backend" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisibleExchange&repo=backend&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
-<a href="https://github.com/InvisibleExchange/prover_contracts" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisibleExchange&repo=prover_contracts&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
-——————————————————————————————————————————————————————————————
-<a href="https://github.com/InvisibleExchange/marketmaker" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisibleExchange&repo=marketmaker&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
-<a href="https://github.com/ZigZagExchange/starknet-oracle" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZigZagExchange&repo=starknet-oracle&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
-——————————————————————————————————————————————————————————————
-<a href="https://github.com/Snojj25/quick-hash-cache" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Snojj25&repo=quick-hash-cache&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
-<a href="https://github.com/Snojj25/linalg-rs" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Snojj25&repo=linalg-rs&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
+<a href="https://github.com/InvisibleExchange/backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisibleExchange&repo=backend&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
+<a href="https://github.com/InvisibleExchange/prover_contracts" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisibleExchange&repo=prover_contracts&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
+
+<a href="https://github.com/InvisibleExchange/marketmaker" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisibleExchange&repo=marketmaker&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
+<a href="https://github.com/ZigZagExchange/starknet-oracle" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZigZagExchange&repo=starknet-oracle&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
+
+<a href="https://github.com/Snojj25/quick-hash-cache" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Snojj25&repo=quick-hash-cache&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
+<a href="https://github.com/Snojj25/linalg-rs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Snojj25&repo=linalg-rs&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
 
 
 
