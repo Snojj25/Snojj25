@@ -37,9 +37,19 @@ Blockchain engineer
 <b>Currently working on:</b>
 
 
-<a href="https://github.com/Snojj25/test1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Snojj25&repo=test1&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
-<a href="https://github.com/InvisibleExchange/frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisibleExchange&repo=frontend&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
 
+
+
+
+
+<a href="https://github.com/Snojj25/test1" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Snojj25&repo=test1&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
+<a href="https://github.com/InvisibleExchange/frontend" align="left" valign="bottom"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisibleExchange&repo=frontend&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
+——————————————————————————————————————————————————————————————
+<a href="https://github.com/Snojj25/test1" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Snojj25&repo=test1&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
+<a href="https://github.com/InvisibleExchange/frontend" align="left" valign="bottom"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisibleExchange&repo=frontend&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
+——————————————————————————————————————————————————————————————
+<a href="https://github.com/Snojj25/test1" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Snojj25&repo=test1&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
+<a href="https://github.com/InvisibleExchange/frontend" align="left" valign="bottom"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisibleExchange&repo=frontend&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
 
 
 
