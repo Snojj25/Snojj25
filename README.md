@@ -28,13 +28,11 @@ Blockchain engineer
 
 
 <img align="left" width="45%" src="./Snojj25's-stats.png" /></img>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snojj25&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snojj25&layout=compact&exclude_repo=Machine_Learning,WaveRSM_app&theme=tokyonight)
 
 
 
 ## Currently working on:
-
-
 <a href="https://github.com/InvisibleExchange/backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisibleExchange&repo=backend&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
 <a href="https://github.com/InvisibleExchange/prover_contracts" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=InvisibleExchange&repo=prover_contracts&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
 
