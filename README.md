@@ -27,11 +27,8 @@ Blockchain engineer
 ### My GitHub Stats
 
 
-
-
-
 <img align="left" width="45%" src="./Snojj25's-stats.png" /></img>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snojj25&layout=compact&theme=tokyonight)
 
 
 
