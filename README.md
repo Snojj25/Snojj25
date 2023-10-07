@@ -28,8 +28,10 @@ Blockchain engineer
 
 
 <img align="left" width="45%" src="./Snojj25's-stats.png" /></img>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snojj25&layout=compact&exclude_repo=Machine_Learning,WaveRSM_app&theme=tokyonight)
 
+<!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snojj25&layout=compact&exclude_repo=Machine_Learning,WaveRSM_app&theme=tokyonight)
+-->
 
 
 ## Currently working on:
