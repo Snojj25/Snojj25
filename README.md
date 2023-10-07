@@ -39,7 +39,7 @@ Blockchain engineer
 <a href="https://github.com/ZigZagExchange/market-maker" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZigZagExchange&repo=market-maker&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
 <a href="https://github.com/ZigZagExchange/starknet-oracle" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZigZagExchange&repo=starknet-oracle&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
 
-[comment]: <> (<a href="https://github.com/Snojj25/quick-hash-cache" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Snojj25&repo=quick-hash-cache&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>)
+<a href="https://github.com/Snojj25/quick-hash-cache" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Snojj25&repo=quick-hash-cache&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
 <a href="https://github.com/Snojj25/linalg-rs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Snojj25&repo=linalg-rs&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd&bg_color=1a1b27&hide_border=true&locale=en" /></a>
 
 
