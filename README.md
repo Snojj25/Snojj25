@@ -9,7 +9,7 @@ Blockchain engineer
 
 * Passionate about blockchain and backend development.<br />
 * Rust enthusiast.
-* Eth maximalist
+* Decentralization maxi
 * 🌍  I'm based in Europe
 * ✉️  You can contact me at [snxjj25@gmail.com](mailto:snxjj25@gmail.com)
 
