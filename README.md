@@ -10,8 +10,8 @@ Blockchain engineer
 * Passionate about blockchain and backend development.<br />
 * Rust enthusiast.
 * Decentralization maxi
-* 🌍  I'm based in Europe
-* ✉️  You can contact me at [snxjj25@gmail.com](mailto:snxjj25@gmail.com)
+* 🌍 🇸🇮 I'm based in Europe
+* ✉️  You can contact me at [snoj.jure1@gmail.com](mailto:snoj.jure1@gmail.com)
 
 
 <!--- ICONS  ===========================================================================================================================---> 
