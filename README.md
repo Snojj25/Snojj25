@@ -2,7 +2,7 @@
 
 <img align="left" width="100%" height="250rem" src="./header.png" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=02B0F7&background=02A5FF00&center=false&width=700&lines=Welcome+to+my+mind.+Entre+at+your+own+risk! ())
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=02B0F7&background=02A5FF00&center=false&width=700&lines=Welcome+to+my+mind.+Enter+at+your+own+risk! ())
 
 Blockchain engineer
 -------------------
