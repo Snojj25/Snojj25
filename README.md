@@ -36,7 +36,6 @@ Blockchain engineer
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="icons/redis.svg" alt="redis" width="40" height="40"/> </a> 
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="icons/rabbitmq.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
 
-
 <!--- ROW 3 ---> 
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="icons/aws.svg" alt="aws" width="40" height="40"/> </a> 
