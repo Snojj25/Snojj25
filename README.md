@@ -44,11 +44,13 @@ Blockchain engineer
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="icons/postgreSQL.svg" alt="postgresql" width="40" height="40"/> </a> 
 
 
+
+
+<!---
 ### My GitHub Stats
-
-
 <img align="left" width="45%" src="./Snojj25's-stats.png" /></img>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunarEchoesABC&layout=compact&theme=tokyonight)
+---> 
 
 
 ## Currently working on:
